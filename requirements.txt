@@ -1,0 +1,7 @@
+streamlit>=1.28
+transformers>=4.30
+diffusers>=0.19
+torch>=2.0
+accelerate
+ftfy
+safetensors
